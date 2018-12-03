@@ -7,6 +7,8 @@ The implementation has followed directly [**The Flask Mega-Tutorial**](https://b
 
 The database was implemented through SQLAlchemy, which is  a Python SQL toolkit and Object Relational Mapper.
 
+The visual styling was implemented through the Bootstrap library.
+
 ## Key Features
 
 * User Logins
